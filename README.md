@@ -152,7 +152,7 @@
   - 💳 **Optimized Database Operations** via Hibernate and MySQL  
   - 📊 **Command Center Dashboard** for comprehensive management 
 
-  [🔗 View Project]((https://github.com/shreyashkashyapanand01/ecom)) | [📖 Docs](#) | [🎥 Demo](#)
+ [🔗 View Project](https://github.com/shreyashkashyapanand01/ecom) | [📖 Docs](#) | [🎥 Demo](#)
 </div>
 
 ---
