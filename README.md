@@ -11,17 +11,17 @@
                       |___/                                        |___/      |_|    
 ```
 
-**`Java Full Stack Developer | ML Explorer | B.Tech CSE'26 | Open Source Enthusiast`**
+**`Java Full Stack Developer | Agentic AI Builder | B.Tech CSE'26 | Open Source Enthusiast`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Crafting+intelligent+ML+solutions;Mastering+cloud-native+architectures;Turning+coffee+into+production-ready+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Crafting+intelligent+ML+solutions;Engineering+multi-agent+LLM+pipelines;Turning+coffee+into+production-ready+code)](https://git.io/typing-svg)
 
 </div>
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&width=100%%&height=300&section=header&text=SHREYASH%20KASHYAP&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&width=100%%&height=300&section=header&text=SHREYASH%20KASHYAP&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=600&height=80&lines=Hey+there!+I'm+Shreyash+Kashyap+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;Machine+Learning+Explorer+%F0%9F%A4%96;Spring+Boot+%7C+React+%7C+AI+Explorer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=600&height=80&lines=Hey+there!+I'm+Shreyash+Kashyap+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;Agentic+AI+Engineer+%F0%9F%A4%96;Spring+Boot+%7C+React+%7C+LangGraph!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -36,28 +36,41 @@
 ```yaml
 name: "Shreyash Kashyap"
 location: "Bhubaneswar, India 🇮🇳"
-education: "B.Tech Computer Science @ KIIT University"
-role: "Full Stack Developer & ML Engineer"
-code: ["Java", "Python", "JavaScript", "C"]
+education: "B.Tech Computer Science @ KIIT University (8.39 CGPA)"
+role: "Backend Engineer & Agentic AI Developer"
+code: ["Java", "Python", "JavaScript"]
 technologies: {
   backend: ["Spring Boot", "FastAPI"],
   frontend: ["React.js", "HTML5", "CSS3"],
-  database: ["MySQL", "MongoDB"],
+  database: ["MySQL", "MongoDB", "Redis"],
   cloud: ["AWS", "Docker", "Kubernetes"],
-  ml: ["scikit-learn", "MLflow", "Pytorch"]
+  agentic_ai: ["LangGraph", "LangChain", "LangSmith", "RAG", "FAISS"],
+  ml: ["scikit-learn", "TensorFlow", "Keras", "XGBoost", "MLflow"],
+  platforms: ["Hugging Face", "Groq", "SentenceTransformers"]
 }
-current_focus: "Building scalable ML pipelines & microservices"
+current_focus: "Building multi-agent LLM pipelines & AI-driven microservices"
 fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ```
 
 <div align="center">
 
 ### 💫 **Currently Exploring:**
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
+---
+
+## 🔨 Currently Building
+
+<div align="center">
+
+> 🚧 **[AlgoTradeSight](https://github.com/shreyashkashyapanand01/AlgoTradeSight)** — Expanding the AI agent pipeline with real-time options flow analysis & portfolio stress testing modules
 
 </div>
 
@@ -88,6 +101,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 ### 🗄️ **Database Mastery**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7da7d2.gif" width="100">
@@ -100,8 +114,13 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
 
-### 🤖 **ML & AI Arsenal**
+### 🤖 **Agentic AI & ML Arsenal**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6A0DAD?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
@@ -118,6 +137,42 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 <div align="center">
 
 <table>
+<tr>
+<td width="50%">
+
+### 📈 AlgoTradeSight — AI-Driven Stock Analysis
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/shreyashkashyapanand01/AlgoTradeSight)
+
+![Stars](https://img.shields.io/github/stars/shreyashkashyapanand01/AlgoTradeSight?style=social)
+![Forks](https://img.shields.io/github/forks/shreyashkashyapanand01/AlgoTradeSight?style=social)
+
+**Full-stack AI financial intelligence platform**
+- 🤖 **7 LLM-powered agents** with LangGraph state machines
+- ⚡ **35–40% latency reduction** via Redis caching
+- 📊 **Weighted decision engine** (Technical + Fundamental + News)
+- 🧠 **Trade behavior pipeline** with AI coaching agent
+
+**Tech:** `Java 17` `Spring Boot` `FastAPI` `LangGraph` `Groq` `React.js` `Redis` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🔧 LegacyLift — AI Code Refactoring Platform
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/shreyashkashyapanand01/LegacyLift)
+
+![Stars](https://img.shields.io/github/stars/shreyashkashyapanand01/LegacyLift?style=social)
+![Forks](https://img.shields.io/github/forks/shreyashkashyapanand01/LegacyLift?style=social)
+
+**AI platform for automated legacy code refactoring**
+- 🔄 **4-agent LangGraph pipeline** with conditional retry routing
+- 📚 **RAG pipeline** with AST parsing & FAISS vector search
+- 🐳 **Sandboxed Docker execution** with security hardening
+- 📉 **50–60% reduction** in manual refactoring effort
+
+**Tech:** `Python` `FastAPI` `LangGraph` `LangChain` `FAISS` `SentenceTransformers` `Docker` `React.js`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -198,6 +253,22 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Complete Agentic AI Bootcamp With LangGraph and LangChain | Udemy | Feb 2026 |
+| IBM DevOps and Software Engineering | IBM | Jun 2025 |
+| AWS Academy Graduate — Cloud Architecting | AWS | Dec 2024 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
 
 <div align="center">
@@ -223,6 +294,64 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 
 ---
 
+## 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashkashyapanand01&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashkashyapanand01&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyashkashyapanand01&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyashkashyapanand01&theme=github_dark&utcOffset=5.5" width="32%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 📈 Detailed Metrics
+
+<div align="center">
+
+<!-- This SVG is auto-generated daily by the metrics.yml GitHub Actions workflow -->
+<img src="github-metrics.svg" alt="Metrics" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Auto-generated daily by the snake.yml GitHub Actions workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="35"> Connect With Me
 
 <div align="center">
@@ -230,7 +359,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-kashyap-45346725b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyashkashyapanand01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashkashyapanand@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/shreyashkashyapanand01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shreyash-ten.vercel.app)
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50">
 
@@ -273,7 +402,7 @@ fun_fact: "I debug with coffee ☕ and deploy with confidence 🚀"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
 
 <div align="center">
-<sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: October 2025 ✨</sub>
+<sub>✨ <strong>Crafted with 💙 by Shreyash Kashyap</strong> | Last Updated: May 2026 ✨</sub>
 </div>
 
 
