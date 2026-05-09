@@ -36,7 +36,7 @@
 ```yaml
 name: "Shreyash Kashyap"
 location: "Bhubaneswar, India 🇮🇳"
-education: "B.Tech Computer Science @ KIIT University (8.39 CGPA)"
+education: "B.Tech Computer Science @ KIIT University (8.51 CGPA)"
 role: "Backend Engineer & Agentic AI Developer"
 code: ["Java", "Python", "JavaScript"]
 technologies: {
